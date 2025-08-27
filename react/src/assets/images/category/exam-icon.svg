@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>اختبارات المحاكاة</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8, 8)" fill-rule="nonzero">
+            <circle fill="#E9F8F3" cx="32" cy="32" r="32"></circle>
+            <path d="M46,12 C48.2091,12 50,13.7909 50,16 L50,44 C50,46.2091 48.2091,48 46,48 L18,48 C15.7909,48 14,46.2091 14,44 L14,16 C14,13.7909 15.7909,12 18,12 L46,12 Z" fill="#10B981"></path>
+            <path d="M23,21 L41,21 C41.5523,21 42,21.4477 42,22 L42,24 C42,24.5523 41.5523,25 41,25 L23,25 C22.4477,25 22,24.5523 22,24 L22,22 C22,21.4477 22.4477,21 23,21 Z" fill="white"></path>
+            <path d="M23,29 L41,29 C41.5523,29 42,29.4477 42,30 L42,32 C42,32.5523 41.5523,33 41,33 L23,33 C22.4477,33 22,32.5523 22,32 L22,30 C22,29.4477 22.4477,29 23,29 Z" fill="white"></path>
+            <path d="M23,37 L33,37 C33.5523,37 34,37.4477 34,38 L34,40 C34,40.5523 33.5523,41 33,41 L23,41 C22.4477,41 22,40.5523 22,40 L22,38 C22,37.4477 22.4477,37 23,37 Z" fill="white"></path>
+            <circle fill="white" cx="44" cy="39" r="3"></circle>
+        </g>
+    </g>
+</svg> 

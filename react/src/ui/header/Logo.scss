@@ -1,0 +1,33 @@
+/* Start Logo */
+
+.logo {
+    user-select: none;
+    display: flex;
+    align-items: center;
+
+    &.true {
+        opacity: 0 !important;
+    }
+
+    .icon-logo {
+        // font-size: 30px;
+        font-size: 2.4rem;
+        color: var(--secondery-color);
+    }
+
+    a {
+        font-family: "Cairo", sans-serif;
+        color: var(--secondery-color);
+        // font-size: 20px;
+        font-size: 2rem;
+        font-weight: bold;
+        cursor: pointer;
+        margin-right: 10px;
+
+        span {
+            color: #00a9ce;
+        }
+    }
+}
+
+/* End Logo */

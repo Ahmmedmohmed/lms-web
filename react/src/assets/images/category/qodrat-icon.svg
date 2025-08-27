@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>قدرات</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8, 8)" fill-rule="nonzero">
+            <circle fill="#E9F8F3" cx="32" cy="32" r="32"></circle>
+            <path d="M44,16 L20,16 C17.7909,16 16,17.7909 16,20 L16,44 C16,46.2091 17.7909,48 20,48 L44,48 C46.2091,48 48,46.2091 48,44 L48,20 C48,17.7909 46.2091,16 44,16 Z" fill="#10B981"></path>
+            <path d="M32,26 C34.7614,26 37,28.2386 37,31 C37,32.4938 36.3626,33.8372 35.3358,34.7682 C38.0799,35.8345 40,38.6607 40,42 L24,42 C24,38.6607 25.9201,35.8345 28.6642,34.7682 C27.6374,33.8372 27,32.4938 27,31 C27,28.2386 29.2386,26 32,26 Z" fill="white"></path>
+            <path d="M32,14 L32,20 M40,22 L44,18 M24,22 L20,18 M22,32 L16,32 M42,32 L48,32" stroke="#10B981" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg> 

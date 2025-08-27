@@ -1,0 +1,118 @@
+/* Start Landing Page */
+.landing-page {
+    padding-top: 150px;
+    /* height: 100vh; */
+
+    // @media (min-width: 991px) {
+    //     min-height: 100vh;
+    // }
+
+    .conatiner {
+        min-height: 80dvh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+
+        .contents {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            @media (max-width: 991px) {
+                flex-direction: column;
+            }
+
+            .content {
+                max-width: 550px;
+
+                @media (max-width: 991px) {
+                    text-align: center;
+                }
+
+                h1 {
+                    color: var(--main-color);
+                    font-size: 35px;
+                    line-height: 1.5;
+
+                    @media (max-width: 991px) {
+                        font-size: 25px;
+                    }
+
+                    span {
+                        color: var(--secondery-color);
+                    }
+                }
+
+                p {
+                    color: var(--thrid-color);
+                    font-size: 19px;
+                    font-weight: 400;
+                    line-height: 2;
+                    font-family: "Cairo", sans-serif;
+                    @media (max-width: 991px) {
+                        font-size: 17px;
+                    }
+                }
+
+                .btn {
+                    display: flex;
+                    align-items: center;
+                    gap: 20px;
+                    margin-top: 30px;
+
+                    @media (max-width: 991px) {
+                        justify-content: center;
+                        margin-bottom: 20px;
+                    }
+
+                    a {
+                        &:first-child,
+                        &:last-child {
+                            padding: 15px 30px;
+                            border-radius: 30px;
+                            font-size: 12px;
+                            font-weight: 600;
+                            font-family: "Cairo", sans-serif;
+                            transition: var(--main-transition);
+                        }
+
+                        &:first-child {
+                            background-color: var(--secondery-color);
+                            color: white;
+                            border: 1px solid transparent;
+
+                            &:hover {
+                                background-color: #d612bc;
+                            }
+                        }
+
+                        &:last-child {
+                            border: 1px solid var(--secondery-color);
+                            color: var(--secondery-color);
+
+                            &:hover {
+                                border-color: #af0b99;
+                                color: #af0b99;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .image {
+                img {
+                    width: 380px;
+
+                    @media (max-width: 991px) {
+                        width: 240px;
+                        margin: 10px 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* End Landing Page */

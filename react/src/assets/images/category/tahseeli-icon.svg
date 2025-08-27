@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>تحصيلي</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8, 8)" fill-rule="nonzero">
+            <circle fill="#E9F8F3" cx="32" cy="32" r="32"></circle>
+            <path d="M32,15 C39.0615,15 45.1601,18.3139 49,23.5 L15,23.5 C18.8399,18.3139 24.9385,15 32,15 Z" fill="#10B981"></path>
+            <path d="M13,27 L51,27 L51,44 C51,46.2091 49.2091,48 47,48 L17,48 C14.7909,48 13,46.2091 13,44 L13,27 Z" fill="#10B981"></path>
+            <path d="M20,32 L26,32 L26,42 L20,42 L20,32 Z M30,32 L36,32 L36,42 L30,42 L30,32 Z M40,32 L46,32 L46,42 L40,42 L40,32 Z" fill="white"></path>
+            <path d="M32,15 L32,20" stroke="#10B981" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg> 

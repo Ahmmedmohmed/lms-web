@@ -1,0 +1,18 @@
+/* Start Contact Me Section  */
+.contact-me {
+    background-color: var(--section-bg);
+    padding: 20px;
+
+    p {
+        text-align: center;
+        color: var(--thrid-color);
+        font-size: 15px;
+
+        @media (max-width: 767px) {
+            font-size: 12px;
+            line-height: 1.5;
+        }
+    }
+}
+
+/* End Contact Me Section  */

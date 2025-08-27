@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>نافس</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8, 8)" fill-rule="nonzero">
+            <circle fill="#E9F8F3" cx="32" cy="32" r="32"></circle>
+            <path d="M28,14 L36,14 C38.2091,14 40,15.7909 40,18 L40,46 C40,48.2091 38.2091,50 36,50 L28,50 C25.7909,50 24,48.2091 24,46 L24,18 C24,15.7909 25.7909,14 28,14 Z" fill="#10B981"></path>
+            <path d="M16,18 L24,18 L24,46 L16,46 C13.7909,46 12,44.2091 12,42 L12,22 C12,19.7909 13.7909,18 16,18 Z" fill="#10B981" opacity="0.8"></path>
+            <path d="M40,18 L48,18 C50.2091,18 52,19.7909 52,22 L52,42 C52,44.2091 50.2091,46 48,46 L40,46 L40,18 Z" fill="#10B981" opacity="0.8"></path>
+            <circle fill="white" cx="32" cy="24" r="3"></circle>
+            <circle fill="white" cx="32" cy="32" r="3"></circle>
+            <circle fill="white" cx="32" cy="40" r="3"></circle>
+        </g>
+    </g>
+</svg> 

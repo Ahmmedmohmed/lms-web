@@ -1,0 +1,55 @@
+/*-----------------------------------*\
+#HEADER
+\*-----------------------------------*/
+.header {
+    .container {
+        @media (min-width: 575px) {
+            max-width: unset;
+        }
+
+        .navbar {
+            transition: all 0.5s var(--cubic-in);
+
+            &.active {
+                // transform: translateX(-320px);
+                transition: all 0.5s var(--cubic-out);
+
+                @media (min-width: 64rem) {
+                    all: unset;
+                }
+            }
+
+            @media (min-width: 64rem) {
+                all: unset;
+            }
+
+            .navbar-list {
+                .navbar-link {
+                    &.active,
+                    &:is(:hover, :focus) {
+                        color: var(--kappel);
+                    }
+                }
+            }
+        }
+
+        .header-actions {
+            .btn {
+                @media (min-width: 768px) {
+                    display: flex;
+                    padding: 10px 30px;
+                    margin-inline: 20px;
+                }
+            }
+        }
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(-100%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
